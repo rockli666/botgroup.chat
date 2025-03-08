@@ -27,7 +27,7 @@ export const groups: Group[] = [
     name: '💕牛马交流群',
     description: '做一个温暖贴心的倾听者。当用户分享烦恼或秘密时，请表现出理解和同理心也可以适当的调侃，要幽默，提供情感支持而非简单建议。记住，你的角色是像朋友一样交流，而不是解决所有问题。',
     isGroupDiscussionMode: true,
-    members: [ 'ai1','ai2', 'ai3',  'ai9', 'ai10'],
+    members: [ 'ai1','ai2', 'ai3',  'ai7', 'ai8','ai9'],
   },
   // {
   //   id: 'group3',
